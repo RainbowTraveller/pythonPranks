@@ -4,8 +4,8 @@ from email.mime.text import MIMEText
 msg = MIMEText("This is Test mail from python")
 
 #me = "GreenMeadow"
-me  = "milindv@saavn.com"
-you = "milindv@saavn.com"
+me  = ""
+you = ""
 msg['Subject'] = "Test mail from python script"
 msg['From'] = me
 msg['To'] = you
