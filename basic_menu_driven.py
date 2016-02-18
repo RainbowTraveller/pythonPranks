@@ -7,7 +7,7 @@ Menu driven program to perform following operations
 3. Get a tuple/list from user and print the sum of numbers
 4. Get a tuple/list from user and print the average of numbers
 5. Get a number between 1 to 100
-6. Quit 
+6. Quit
 """
 def pnz():
     mynum = int(raw_input("Please enter a number:"))
@@ -80,4 +80,4 @@ if __name__ == '__main__':
 
 
 
-    
+
